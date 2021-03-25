@@ -1,10 +1,10 @@
 
-
-let Home = () => {
+let Video_b = () => {
     return (
         <div>
             
         </div>
     )
 }
-export default Home
+
+export default Video_b
