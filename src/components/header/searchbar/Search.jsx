@@ -1,7 +1,7 @@
 let Search = () => {
     return (
         <div>
-            
+            <p>hello</p>
         </div>  
     )
 }

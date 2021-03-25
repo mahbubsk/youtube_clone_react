@@ -1,11 +1,10 @@
-import Logo from './logo/Logo'
 import Menu from './menu/Menu'
 import Notification from './notification/Notification'
 import Search from './searchbar/Search'
 
 let Header = () => {
     return (
-        <div>
+        <div style = {{ display: 'flex', alignItems: 'center'}}>
             <Logo/>
             <Menu/>
             <Notification/>
