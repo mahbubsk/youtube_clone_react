@@ -1,7 +1,7 @@
 import Video_a from './video_a/Video_a'
 import Video_b from './video_b/Video_b'
-import Video_c from './video_b/Video_c'
-import Video_d from './video_b/Video_d'
+import Video_c from './video_c/Video_c'
+import Video_d from './video_d/Video_d'
 
 
 let Line1 = () => {
